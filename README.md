@@ -19,8 +19,10 @@ This repository includes the raw data and scripts used to analyze and plot this 
 To process the data and plot figures as described in the paper, please run the Jupyter notebook named `high-res-pH-paper-code.ipynb`.
 
 Please note that some files are not available due to their large file size:
-* File 1 can be accessed [here](URL_for_file_1).
-* File 2 can be accessed [here](URL_for_file_2).
+* File 1 can be accessed [here](URL_for_file_1). SMB FOR BOTH CRUISES AND CAN BE REQUESTED VIA EMAIL OR ACCESSED ON THE GERMAN WEBSITE
+* File 2 can be accessed [here](URL_for_file_2). CMEMS DATA NEEDS TO BE DOWNLOADED AND CAN BE DONE SO IN THE SCRIPT
+
+Please note that the data used here is post-cruise processing, but each cruise's processing can be found in two alternative repositories here and here, with links to download the raw data.
 
 ## License
 This repository is licensed under the GNU General Public License v3.0 (GPL-3.0), ensuring that the software remains free and open, with the source code available for transparency and modification.
