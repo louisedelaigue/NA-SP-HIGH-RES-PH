@@ -1,6 +1,6 @@
 # From small scale variability to mesoscale stability in surface ocean pH: implications for CO2 equilibration
 
-<img src="figs/plot_study_area_onemap.png.png" width="682" height="303" />
+<img src="figs/plot_study_area_onemap.png" width="682" height="303" />
 
 This repository includes the raw data and scripts used to analyze and plot this data for the study:
 
