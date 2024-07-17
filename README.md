@@ -16,5 +16,12 @@ This repository includes the raw data and scripts used to analyze and plot this 
 
 *Corresponding author: Louise Delaigue ([louise.delaigue@nioz.nl](mailto:louise.delaigue@nioz.nl))*
 
+## Analysis
+To process the data and plot figures as described in the paper, please run the Jupyter notebook named `high-res-pH-paper-code.ipynb`.
+
+Please note that some files are not available due to their large file size:
+* File 1 can be accessed [here](URL_for_file_1).
+* File 2 can be accessed [here](URL_for_file_2).
+
 ## License
 This repository is licensed under the GNU General Public License v3.0 (GPL-3.0), ensuring that the software remains free and open, with the source code available for transparency and modification.
