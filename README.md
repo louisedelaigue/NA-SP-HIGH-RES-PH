@@ -16,4 +16,5 @@ This repository includes the raw data and scripts used to analyze and plot this 
 
 *Corresponding author: Louise Delaigue ([louise.delaigue@nioz.nl](mailto:louise.delaigue@nioz.nl))*
 
-
+## License
+This repository is licensed under the GNU General Public License v3.0 (GPL-3.0), ensuring that the software remains free and open, with the source code available for transparency and modification.
