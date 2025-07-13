@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15873817.svg)](https://doi.org/10.5281/zenodo.15873817)
+
 # From small scale variability to mesoscale stability in surface ocean pH: implications for CO<sub>2</sub> equilibration
 
 <img src="figs/figure1.png" width="682" height="303" />
