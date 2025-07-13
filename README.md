@@ -1,4 +1,4 @@
-# From small scale variability to mesoscale stability in surface ocean pH: implications for CO2 equilibration
+# From small scale variability to mesoscale stability in surface ocean pH: implications for CO<sub>2</sub> equilibration
 
 <img src="figs/plot_study_area_onemap.png" width="682" height="303" />
 
@@ -6,14 +6,16 @@ This repository includes the raw data and scripts used to analyze and plot this 
 
 **From small scale variability to mesoscale stability in surface ocean pH: implications for CO2 equilibration**
 
-*L. Delaigue<sup>1</sup>\*, G-J Reichart<sup>1,2</sup>, C. Galley<sup>3,4</sup>, Y. Ourradi<sup>1</sup> and M. P. Humphreys<sup>1</sup>*
+*L. Delaigue<sup>1, 2</sup>\*, G-J Reichart<sup>1,3</sup>, L. Qiu<sup>4</sup>,  Eric P. Achterberg<sup>4</sup>, Y. Ourradi<sup>1</sup>, C. Galley<sup>5,6</sup>, A. Mutzberg<sup>4</sup>,  and M. P. Humphreys<sup>1</sup>*
 
 <sup>1</sup>Department of Ocean Systems (OCS), NIOZ Royal Netherlands Institute for Sea Research, PO Box 59, 1790 AB Den Burg (Texel), the Netherlands  
-<sup>2</sup>Department of Earth Sciences, Utrecht University, Utrecht, the Netherlands  
-<sup>3</sup>Department of Earth Sciences, Memorial University of Newfoundland, St. John's, NL, A1B 3X5, Canada  
-<sup>4</sup>Department of Earth and Environmental Sciences, University of Ottawa, Ottawa, ON, K1N 6N5, Canada  
+<sup>2</sup>Sorbonne Université, CNRS, Laboratoire d'Océanographie de Villefranche, LOV, 06230 Villefranche-sur-Mer, France
+<sup>3</sup>Department of Earth Sciences, Utrecht University, Utrecht, the Netherlands  
+<sup>34for Ocean Research, Kiel, Germany
+<sup>5</sup>Department of Earth Sciences, Memorial University of Newfoundland, St. John's, NL, A1B 3X5, Canada  
+<sup>6</sup>Department of Earth and Environmental Sciences, University of Ottawa, Ottawa, ON, K1N 6N5, Canada  
 
-*Corresponding author: Louise Delaigue ([louise.delaigue@nioz.nl](mailto:louise.delaigue@nioz.nl))*
+*Corresponding author: Louise Delaigue ([louise.delaigue@nioz.nl](mailto:louise.delaigue@nimev-mer.fr))*
 
 ## Analysis
 To process the data and plot figures as described in the paper, please run the Jupyter notebook named `high-res-pH-paper-code.ipynb`.
