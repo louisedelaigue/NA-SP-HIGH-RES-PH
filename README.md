@@ -20,7 +20,7 @@ This repository includes the raw data and scripts used to analyze and plot this 
 *Corresponding author: Louise Delaigue ([louise.delaigue@imev-mer.fr](mailto:louise.delaigue@imev-mer.fr))*
 
 ## Analysis
-To process the data and plot figures as described in the paper, please run the Jupyter notebook named `Code-for-analysis.ipynb`.
+To process the data and plot figures as described in the paper, please run the Jupyter notebook named `high-res-paper-code.ipynb`.
 
 Please note that some files are not available due to their large size. Interested readers are encouraged to contact the corresponding author for access.
 
