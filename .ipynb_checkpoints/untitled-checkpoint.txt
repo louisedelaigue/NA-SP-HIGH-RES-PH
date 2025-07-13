@@ -1,5 +1,0 @@
-# Ignore only specific data files
-
-data/OceanSODA_ETHZ-v2023.OCADS.01_1982-2022.nc
-data/S0279/smb_all_hr.dat
-data/S0289/S0289_underway_data_SMB_simple.dat
