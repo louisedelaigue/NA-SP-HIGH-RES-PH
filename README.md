@@ -15,7 +15,7 @@ This repository includes the raw data and scripts used to analyze and plot this 
 <sup>5</sup>Department of Earth Sciences, Memorial University of Newfoundland, St. John's, NL, A1B 3X5, Canada  
 <sup>6</sup>Department of Earth and Environmental Sciences, University of Ottawa, Ottawa, ON, K1N 6N5, Canada  
 
-*Corresponding author: Louise Delaigue ([louise.delaigue@nioz.nl](mailto:louise.delaigue@nimev-mer.fr))*
+*Corresponding author: Louise Delaigue ([louise.delaigue@imev-mer.fr](mailto:louise.delaigue@imev-mer.fr))*
 
 ## Analysis
 To process the data and plot figures as described in the paper, please run the Jupyter notebook named `Code-for-analysis.ipynb`.
